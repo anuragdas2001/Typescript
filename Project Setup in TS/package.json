@@ -1,0 +1,11 @@
+{
+  "name": "projectts",
+  "version": "1.0.0",
+  "description": "setup project in ts",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Anurag",
+  "license": "ISC"
+}
